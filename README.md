@@ -12,6 +12,12 @@ The goal is to analyze the impact of **model architecture**, **dataset character
 
 ---
 
+## Demo
+Watch the demo videos and examples here:  
+▶️ **Google Drive:** https://drive.google.com/drive/folders/1aIiVQed4CYCC6izue8dum36uczN6rn-L?usp=sharing
+
+---
+
 ## Slides / Detailed Description
 Detailed content and experiment notes are provided in the slides:  
 ➡️ [group24 revision report.pptx](./group24%20revision%20report.pptx)
